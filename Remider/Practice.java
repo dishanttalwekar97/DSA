@@ -43,6 +43,7 @@ class Practice {
         System.out.println();
     }
 
+
     //Count Frequency of each character in a string
     public void CountFrequenc(){
         String str = "Dishanthello";
@@ -62,7 +63,9 @@ class Practice {
 
         }
         System.out.println();
-    }
+ }
+ 
+
 
     //dupicate in Array
     public void DuplicateInArray(){
