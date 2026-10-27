@@ -58,9 +58,9 @@ class Practice {
                     count++;
                 }
             }
-             System.out.print(ch + " = " + count);
-             
-
+            
+            
+            System.out.print(ch + " = " + count);
         }
         System.out.println();
  }
